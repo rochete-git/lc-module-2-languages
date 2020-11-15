@@ -28,8 +28,20 @@ class SlothMachine {
     };
 };
 
+console.log("--> Machine 1 <--")
 const machine1 = new SlothMachine();
-
 for (let i = 0; i < 20; i++) {
     machine1.play();
+};
+
+console.log("--> Machine 2 <--")
+const machine2 = new SlothMachine();
+for (let i = 0; i < 20; i++) {
+    machine2.play();
+};
+
+console.log("--> Machine 3 <--")
+const machine3 = new SlothMachine();
+for (let i = 0; i < 20; i++) {
+    machine3.play();
 };
