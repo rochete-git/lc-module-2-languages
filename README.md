@@ -8,7 +8,7 @@ Exercises:
 
 Run:
 - npm install
-    found 7 vulnerabilities (5 low, 2 high)
-    run `npm audit fix` to fix them, or `npm audit` for details
+    - found 7 vulnerabilities (5 low, 2 high)
+    - run `npm audit fix` to fix them, or `npm audit` for details
 - npm audit fix (why?)
 - npm start
